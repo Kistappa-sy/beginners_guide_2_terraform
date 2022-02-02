@@ -1,0 +1,6 @@
+prefix = "learining"
+location = "eastus"
+#subscription_id = ""
+#client_id = ""
+#client_secret = ""
+#tenant_id = ""
